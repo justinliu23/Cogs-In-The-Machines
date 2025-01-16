@@ -1,0 +1,4 @@
+JAMA Dataset: 791 correct out of 1524 total responses
+Cogbias Incorrect Bias Dataset: 5388 correct out of 11457 total responses
+Cogbias Correct Bias Dataset: 7143 correct out of 11457 total responses
+Cogbias Unbiased Dataset: 680 correct out of 1273 total responses
